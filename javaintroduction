@@ -1,0 +1,9 @@
+public class JavaPrinciples
+ {
+    system.out.println("class&object");
+    system.out.println("encapsulation");
+    system.out.println("abstract");
+    system.out.println("inheritance");
+    system.out.println("polymorphism");
+  }  
+  
